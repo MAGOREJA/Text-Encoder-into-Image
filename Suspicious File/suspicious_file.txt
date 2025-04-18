@@ -1,0 +1,2 @@
+This is a test file.
+Contains malicious_string for detection.
